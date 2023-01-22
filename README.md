@@ -33,4 +33,4 @@ V tabulce Data jsem si vytvořil kalkulovaný sloupce kategorie bez kódu, kde j
 
 V tabulce CiselnikOkresu jsem si vytvořil pro zajímavost kalkulovaný sloupec kód kraj ze sloupce Kód NUTS4 okresu.
 
- 
+ Discord: Vojta K.#6816
